@@ -1,0 +1,11 @@
+Las Variables es como una cajita donde puedo guardar muchas cosas (datos) y utilizarlas luego
+
+Una string es cadenas de texto siempre va entre comillas dobles o siemples,
+son solo palabras aunque sea un numero si va entre comillas lo lee como texto
+
+Una funcion es un conjunto de procedimientos que toma un valor de entrada y devuelve un valor de salida
+recibe parametros() que se pueden utilizar dentro de la funcuón y devuelve con return
+
+If es un condicional que se pone en la funcion, y se cumplirá if si la condion es verdadera
+
+Los valores booleanos es la forma que tengo para decirle al programa si algo es verdadero o falso true o false
