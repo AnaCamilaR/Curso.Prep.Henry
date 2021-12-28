@@ -1,0 +1,9 @@
+for es un bucle, osea se repire y se repite hasta que sea false, se necesitan 3 expresiones dentro de los ()
+
+&& es un operador de logica (Y) que compara ambas expresiones si las dos son verdaderas devuelve true si ambas son negativas
+devuelve false, si una de ellas es falsa el codigo no se ejecutara
+
+|| es un operador de logica (OR) que compara ambas expresiones si una sola o ambas es verdedaderas devulve true, si las dos
+son negativas devuelve false, es lo contrario de &&
+
+! Este operador cambia el valor a opuesto, si la expresion es verdadera, cambiara a false y al contrario
